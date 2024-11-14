@@ -63,6 +63,6 @@ User Authentication: Secure user data by integrating authentication.
 ## Screenshots
 Here's a preview of the Task Manager interface:
 
-![task handling](screenshots/taskdashboard.png)
-![task handling](screenshots/tasklist.png)
-![task handling](screenshots/add.png)
+![task handling](src/screenshots/taskdashboard.png)
+![task handling](src/screenshots/tasklist.png)
+![task handling](src/screenshots/add.png)

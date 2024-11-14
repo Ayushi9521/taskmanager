@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build-gh": "vite build --public-url 'https://ayushi9521.github.io/taskmanager'",
+    "build-gh": "vite build",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

@@ -2,25 +2,25 @@
   "name": "task-handling",
   "version": "1.0.0",
   "source": "src/index.html",
-  "homepage": "https://ayushi9521.github.io/Ayushi-Portfolio",
+  "homepage": "https://ayushi9521.github.io/taskmanager",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build-gh": "vite build --public-url 'https://ayushi9521.github.io/Ayushi-Portfolio'",
+    "build-gh": "vite build --public-url 'https://ayushi9521.github.io/taskmanager'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ayushi9521/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/Ayushi9521/taskmanager.git"
   },
   "author": "Ayushi9521",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ayushi9521/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/Ayushi9521/taskmanager"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
